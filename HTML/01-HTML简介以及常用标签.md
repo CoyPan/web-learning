@@ -1,4 +1,4 @@
-### 什么是HTML
+## 什么是HTML
 
 **HTML的全称是：超文本标记语言——HyperText Markup Language。**
 
@@ -12,9 +12,13 @@
 
 html是一种描述性语言，并没有太多的逻辑。但是，却要讲究一定的规则。
 
-### HTML标签
+## HTML标签
 
 HTML是由一系列的”元素“（标签）组成的。使用不同的标签包裹不同的内容，即可在页面上表现出不同的样子。常见的标签有h1,h2,div,img,video,p,span,a,ul,li,input,form,link,script等等。
+
+一个HTML元素的结构如下：
+
+![An image](./html_14.png)
 
 - h1标签
 
@@ -91,7 +95,7 @@ head标签中，主要是网页的一些基本信息，如网页的名称等。
 
 [传送门](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)
 
-### 总结
+## 总结
 
 **一个网页的基本结构，是由许许多多的标签元素组成的。不同的标签，承载了不同的内容**。部分标签是有语义的。所谓语义，就是在html代码层次表达人的想法，告诉浏览器，我这里到底是什么内容。
 
